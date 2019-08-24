@@ -1,0 +1,53 @@
+#header{
+	text-align: center;
+	font-size: 6em;
+	margin: 10px;
+}
+
+#nav{
+	list-style-type: none;
+	text-align: center;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}
+
+.nav_item{display: inline-block;font-size: 1.5em;}
+
+#middle_content_div{
+	width: 100%;
+}
+
+#animation_menu{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}
+
+#animation_menu li {
+	display: inline-block;
+	margin: 0;
+	padding: 0;
+	width: 19%;
+
+}
+
+#animation_menu li img {
+	width: 90%;
+
+}
+
+#content_p{
+	font-size: 2em;
+	float: right;
+	width: 23%;
+	display: inline;
+	margin: 0;
+}
+
+#animation{
+}
+
+#background{
+}
